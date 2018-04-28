@@ -1,4 +1,6 @@
-# Diceware
+# (Spanish) Diceware
+
+Note: Code has been modified to use a Spanish diceware dictionary. Documentation translation pending...
 
 This is the code for https://diceware.herokuapp.com. Feel free to host your own version and make any modifications.
 
